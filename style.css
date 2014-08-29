@@ -1,0 +1,20 @@
+body {
+background-image:url("aa.jpg");
+background-repeat:repeat-x;
+}
+
+h1{color:orange;
+background:gray;
+margin:200px 90px 0px 120px;
+text-align:center;}
+p{
+
+background-color:#E99067;
+font-family: "Times New Roman";
+font-size:20px;
+}
+
+#aa:link{color:FFFFFF}
+#aa:visited{#B4598B}
+#aa:hover{#8AC007}
+#aa:active{#FFFFFF}
